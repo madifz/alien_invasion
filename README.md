@@ -27,7 +27,7 @@ I used [Git](https://git-scm.com/) for versioning.
 
 ## Authors
 
-* **Muhammad Danial Faizsal** - *this is my first every python project I created and pushed ot Github!* - [madifz](https://github.com/madifz)
+* **Muhammad Danial Faizsal** - *this is my first ever python project I created and pushed to Github!* - [madifz](https://github.com/madifz)
 
 ## Acknowledgments
 
